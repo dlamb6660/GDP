@@ -1,0 +1,3 @@
+This is the source code for a novel trading agent algorithm, GDP (GD Plus), which combines the benefits of the GD algorithm and ZI-Plus to create a hybrid approach to automated trading.
+
+My algorithm is contained in the file Trader_GDP.py and is also integrated into the Bristol Stock Exchange file (BSE.py). The BSE is a minimal simulation of a continuous double auction developed and copyrighted by Dave Cliff 2012.
